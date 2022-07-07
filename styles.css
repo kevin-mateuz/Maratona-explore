@@ -37,6 +37,13 @@
       --primary-color:#D6336C;
       --primary-color-dark:#a61e4d;
   }
+  body.dark-yellow{
+    --bg-color:#2D2902;
+    --text-color:#ffffff;
+    --primary-color:#BACA0C;
+    --primary-color-dark:#767D08;
+}
+
   
   
   
