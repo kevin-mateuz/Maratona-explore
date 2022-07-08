@@ -7,7 +7,7 @@
 
 
 
- <a href="manager-link.netlify.app">Link do site
+ <a href="https://maneger-link.netlify.app/">Link do site
 <img src="./ME-GL.jpg" alt="imagem da lista dos links de minhas redes sociais ">
 </a>
 
