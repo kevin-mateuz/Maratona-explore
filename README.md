@@ -17,7 +17,7 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/profile.jpg" width="200px;" alt="Foto do Kevin no GitHub"/><br>
+        <img src="./profile-linked.jpeg" width="200px;" alt="Foto do Kevin no GitHub"/><br>
         <sub>
           <b>Kevin Mateus</b>
         </sub>
